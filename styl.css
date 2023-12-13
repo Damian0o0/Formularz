@@ -48,7 +48,7 @@ select {
   border-radius: 0.25rem;
 }
 
-.error-message {
+.error {
   color: darkblue;
   font-size: 15px;
   margin-top: 5px;
